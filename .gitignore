@@ -1,5 +1,7 @@
 
-content/.vitepress
+content/.vitepress/dist
+content/.vitepress/cache
+
 
 # Logs
 logs
