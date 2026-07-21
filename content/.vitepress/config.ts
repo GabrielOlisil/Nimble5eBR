@@ -4,7 +4,6 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Nimble 5e BR",
   description: "Um guia de como jogar",
-  base:"Nimble5eBR",
 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
